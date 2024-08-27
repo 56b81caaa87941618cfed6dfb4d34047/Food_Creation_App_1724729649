@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Good morning' button to be positioned in the app?\", \"option1\": \"On the main screen, accessible as soon as the app is opened\", \"option2\": \"Under a specific section of the app, please specify which section\"}, {\"question 2\": \"What should happen when the 'Good morning' button is pressed?\", \"option1\": \"Display a motivational quote or message for the day\", \"option2\": \"Open a new feature or section within the app, please specify which feature or section\"}], \"input_token_count\": 272, \"output_token_count\": 124, \"time_taken\": \"0:00:07.629567\"}",
+        "message_id": "guest27082024035536",
+        "timestamp": "27082024035546",
+        "component_file_name": "simple_cta_component_1724729650",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, adding a button with the text \"Good morning\".",
         "message_id": "guest27082024035536",
