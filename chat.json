@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a swipe-to-refresh feature for updating the latest food building tutorials\", \"checked\": false}, {\"feature\": \"Implement a floating action button for quick access to create a new food recipe\", \"checked\": true}, {\"feature\": \"Integrate a search bar at the top for easy finding of specific food recipes\", \"checked\": true}, {\"feature\": \"Incorporate a toggle for dark/light mode for user's preference of display\", \"checked\": false}, {\"feature\": \"Enable push notifications for new food building challenges or updates\", \"checked\": true}, {\"feature\": \"Add an 'About Us' section in the menu for app information and contact\", \"checked\": false}], \"input_token_count\": 225, \"output_token_count\": 155, \"time_taken\": \"0:00:04.987766\"}",
+        "message_id": "guest27082024040703",
+        "timestamp": "27082024040710",
+        "component_file_name": "simple_cta_component_1724729650",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Arrow' button to be positioned within the app?\", \"option1\": \"At the bottom of the screen\", \"option2\": \"At the top of the screen\"}, {\"question 2\": \"What function should the 'Arrow' button perform?\", \"option1\": \"Take the user to the previous page\", \"option2\": \"Scroll to the top of the current page\"}], \"input_token_count\": 271, \"output_token_count\": 97, \"time_taken\": \"0:00:03.459890\"}",
         "message_id": "guest27082024040703",
