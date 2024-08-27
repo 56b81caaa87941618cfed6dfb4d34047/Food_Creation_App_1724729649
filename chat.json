@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Arrow' button to be positioned within the app?\", \"option1\": \"At the bottom of the screen\", \"option2\": \"At the top of the screen\"}, {\"question 2\": \"What function should the 'Arrow' button perform?\", \"option1\": \"Take the user to the previous page\", \"option2\": \"Scroll to the top of the current page\"}], \"input_token_count\": 271, \"output_token_count\": 97, \"time_taken\": \"0:00:03.459890\"}",
+        "message_id": "guest27082024040703",
+        "timestamp": "27082024040708",
+        "component_file_name": "simple_cta_component_1724729650",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, adding a button with text \"Arrow\".",
         "message_id": "guest27082024040703",
