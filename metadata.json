@@ -4,5 +4,6 @@
     "project_description": "an app for building the foods",
     "creation_time": "2024-08-27 03:34:09.143974",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vibrant, otherworldly landscape with a predominance of pink and purple hues, complemented by dark, contrasting silhouettes of mountainous terrain and celestial bodies. The style is highly surreal and fantastical, creating a visually striking and imaginative scene."
 }
