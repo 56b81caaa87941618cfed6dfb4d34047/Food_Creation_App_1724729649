@@ -2,13 +2,13 @@
 */
 Vue.component("simple_footer_component_1724729650", {
     template: `
-    <footer id="footer-section" class="flex-1 bg-gradient-to-r from-pink-400 to-purple-600 bg-opacity-50 backdrop-filter backdrop-blur-lg">
+    <footer id="footer-section" style="min-height: 310px" class="flex-1 bg-gradient-to-r from-pink-400 to-purple-600 bg-opacity-50 backdrop-filter backdrop-blur-lg">
             <div id="footer-container" class="max-w-screen-xl p-4 py-6 mx-auto lg:py-16 md:p-8 lg:p-10 rounded-lg shadow-lg">
                 <hr id="footer-divider" class="my-6 border-white border-opacity-30 sm:mx-auto lg:my-8">
                 <div id="footer-content" class="text-center">
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-white hover:text-pink-200 transition-colors duration-300">
-                            <img id="footer-logo" src="./images/logo.svg" class="h-6 mr-3 sm:h-9 filter brightness-0 invert" alt="Landwind Logo" />
+                            <img id="footer-logo" src="https://makeinfinite-mentat-test.azurewebsites.net/get_image/Food_Creation_App_1724729649/logo.svg" class="h-6 mr-3 sm:h-9 filter brightness-0 invert" alt="Landwind Logo" />
                             NutriBuilder
                         </a>
                     </div>
