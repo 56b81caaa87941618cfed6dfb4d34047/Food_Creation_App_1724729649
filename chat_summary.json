@@ -36,5 +36,11 @@
         "content": "add a button with text Arrow",
         "timestamp": "27082024040705",
         "message_id": "guest27082024040703"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Alright, adding a button with text \"Arrow\".",
+        "timestamp": "27082024040705",
+        "message_id": "guest27082024040703"
     }
 ]
